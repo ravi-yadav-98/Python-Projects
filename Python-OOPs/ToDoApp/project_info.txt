@@ -1,0 +1,11 @@
+
+Bacis ToDo CommandLine Application:
+
+Features of ToDo Application
+- Add Tasks(Descrepition and Complete status)
+- Remove Tasks
+- Update Tasks 
+- Show All Tasks 
+
+
+- No Data Persistance
